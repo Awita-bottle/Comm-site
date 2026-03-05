@@ -1,6 +1,5 @@
 const button = document.getElementById("accept-disclaimer");
 const overlay = document.getElementById("disclaimer-overlay");
-
 button.addEventListener("click", () => {
   overlay.style.display = "none";
 });
