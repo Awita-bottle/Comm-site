@@ -1,3 +1,10 @@
+const button = document.getElementById("accept-disclaimer");
+const overlay = document.getElementById("disclaimer-overlay");
+
+button.addEventListener("click", () => {
+  overlay.style.display = "none";
+});
+
 function showSidebar(){
     const sidebar = document.querySelector('.sidebar')
     sidebar.style.display = 'flex'
