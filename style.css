@@ -431,12 +431,12 @@ padding: 2rem;
 }
 
 #ml{
-    border: rgb(255, 255, 255) solid;
-    filter: drop-shadow(0 0 6px rgb(255, 255, 255));
+    border: rgb(193, 101, 101) solid;
+    filter: drop-shadow(0 0 6px rgb(201, 128, 128));
 }
 
 #bsky{
-    border:#006aff solid;
+    border:#1d76f2 solid;
     filter: drop-shadow(0 0 6px rgb(0, 106, 255));
 }
 
