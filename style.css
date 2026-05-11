@@ -15,14 +15,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(85, 8, 8, 0.35);
+  background: rgba(150, 142, 210, 0.35);
   backdrop-filter: blur(15px);
 
   z-index: 9999;
 }
 
 .disclaimer-modal {
-  background: #111;
+  background: #141414;
   color: white;
   padding: 2rem;
   border-radius: 12px;
@@ -34,10 +34,10 @@
 .disclaimer-modal button {
   margin-top: 20px;
   padding: 10px 20px;
-  border:rgb(137, 0, 0) solid;
+  border:rgb(195, 96, 96) solid;
   border-radius: 5px;
   cursor: pointer;
-  background: #c60000;
+  background: #1e1111;
   color: white;
   font-weight: bold;
 }
@@ -431,8 +431,8 @@ padding: 2rem;
 }
 
 #ml{
-    border: rgb(225, 86, 86) solid;
-    filter: drop-shadow(0 0 6px rgb(230, 155, 155));
+    border: rgb(255, 255, 255) solid;
+    filter: drop-shadow(0 0 6px rgb(255, 255, 255));
 }
 
 #bsky{
@@ -464,7 +464,7 @@ padding: 2rem;
 #FORM div{
     
     backdrop-filter: blur(2px);
-    background-color: #d7d7d7d0;
+    background-color: #d6d6d6d0;
     width: 80vw;
     margin: 0 auto;
 
